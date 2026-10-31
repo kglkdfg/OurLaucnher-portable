@@ -1,0 +1,12 @@
+**/bin/
+**/obj/
+.vs/
+.idea/
+*.user
+*.suo
+Data/
+Runtime/
+Minecraft/
+Logs/
+.DS_Store
+Thumbs.db
